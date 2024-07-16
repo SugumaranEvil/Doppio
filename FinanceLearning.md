@@ -32,3 +32,25 @@ may give Cash bill/ Cash Memo/ Cash Invoice.
 ### Expenses Voucher 
 - This are internal document prepared along with Expenses Invoice received from the vendor.
 - It has details of expenses incurred signature of the person approving the expenses.
+
+### Payment Voucher
+- It is prepared when payment is made for Expenses or Purchase of Goods.
+- It has details of person to whom payment is made, Mode of Payment, Person approving
+payment, Transaction ID/ Cheque no incase of Bank Payments.
+- Payment Vouchers can be of 2 types
+- Bank Payment Voucher
+- Cash Payment Vouchers
+
+### Receipt Voucher
+- It is prepared when payment is received by the organisation. It has details like Date, Details
+of person from whom amount is received, Cheque no/ Transaction ID amount etc.
+- Receipt Vouchers may be of 2 types :
+- Bank Receipt voucher
+- Cash Receipt Voucher
+  
+### Journal vouchers 
+- This are prepared for Non-cash Transactions wherein
+certain entries are required to be passed in the books of account.
+
+### Journal is book of Original Entry. 
+- It is a book wherein Journal Entries are recorded and then they are posted to the Ledger accounts. A journal has records of all financial transactions related to the business
