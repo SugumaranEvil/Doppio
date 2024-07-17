@@ -54,3 +54,53 @@ certain entries are required to be passed in the books of account.
 
 ### Journal is book of Original Entry. 
 - It is a book wherein Journal Entries are recorded and then they are posted to the Ledger accounts. A journal has records of all financial transactions related to the business
+-----16/07/24
+### Capital 
+Amount invested by the Owner of the Firm in his business is known as capital Capital may be in the form of Cash, Goods or Assets. Since the business is considered as a separate entity the Capital invested is considered as Liability.
+Manage edentions
+
+### Drawings 
+A part of Capital used by Owner in form of Cash or Goods for personal purposes is known as Drawings. In
+addition to this if a business is incurring certain expenses on behalf of Owner then it is also considered as Drawings
+
+### Liability
+Liability is an obligation or debt that entity has to pay in future. This obligation may be in the form of Money,
+Goods or even services.
+
+### Assets
+Assets are economic resources of the business expressed in Monetary Terms.
+#### Assets - Basis of Existence
+- Tangible assets.Touched or felt physically. Eg. Machiery, furniture.
+- Intangible Assest. Cannot be touched or not felt physically. Eg. Trademark, Copyright.
+#### Assets - Basis of convertibility
+- Fixed Assets - machinery, Plant, furniture, land, buildind
+- Current Asset - cash
+
+### Receipt
+- Receipts means amount received by the Business. It may be in cash or Bank transfer or by cheque
+Types of Receipt
+- Capital receipt (Non recurring cash/ Bank receipts) 
+Loan taken from bank
+
+- Revenue receipt (Recurring cash/ Bank receipts)
+Receipts from Sale of Goods
+Receipts from Priest, Dried, Commission
+
+### Revenue/Income
+These are the amounts earned by the business.
+
+### sales direct Income/ Direct REvenue
+Revenue earned by selling its product or providing of services.
+- Cash sales
+  we got the cash payment immediately after sold goods
+  we got a cheque.
+- Credit sales
+  Will get the amount after 2 months [Account recievable]
+
+### Sales Return
+When the goods sold are returned back due to some reason it is known as sales retum.
+It Will be reduced irom Total Sales. It will also impact Cash balance. Debtors balance as per
+terms with cuptomer.
+
+### Indirect Income/ Indirect Revenue
+Revenue earned by other means which are not directly related to the business
