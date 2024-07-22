@@ -104,3 +104,25 @@ terms with cuptomer.
 
 ### Indirect Income/ Indirect Revenue
 Revenue earned by other means which are not directly related to the business
+
+### Expenditure
+### Capital Expenditure
+• Incurred for acquiring a fixed asset or For extension or improvement in fixed asset or For substantial replacement of existing asset Failed to enable Vir
+• The benefit of expenditure is more than 1 Year
+
+### Revenue Expenditure
+• Incurred for running day to day activities in the business.
+• The benefit of expenditure is not more than a year
+
+### Deferred Revenue expenditure
+• Defer means to postpone
+• It is a Revenue Expenditure which is incurred but the benefit of expenditure is for more than a year.
+
+### Expenses
+Cost incurred by the business for the process of earning Revenue is Expenses. The expenses are calculated by the cost of Asset used services consumed during a particular period.
+Example : Depreciation on Fixed assets, Rent, Salaries ano wages, Telephone Mobile bills, Electricity charges, Water charges etc.
+
+### Purchases
+Purchases are total amount of Goods that are procured for the purpose of business.
+
+
