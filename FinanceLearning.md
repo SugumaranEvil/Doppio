@@ -169,7 +169,19 @@ customers.
 
 ### Stock/ Inventory
 . It refers to quantity and Value of goods, Spares and Other Items as on the Particular date.
-. Opening Stock (Beginning Inventory) is quantity and Value of Stock at the Beginning of
-the accounting period whereas Closings stock (Closing Inventory) is quantity and Value of
-the stock at the end of the Accounting period.
+. Opening Stock (Beginning Inventory) is quantity and Value of Stock at the Beginning of the accounting period whereas Closings stock (Closing Inventory) is quantity and Value of the stock at the end of the Accounting period.
 
+### GAAP (Generally Accepted Accounting Principles)
+· These are certain rules, principles, concepts, assumptions which are required to be followed while recording a transactions in books of accounts.
+. This helps in maintaining uniformity and consistency in maintaining accounting records
+
+### Business Entity Concept
+. This concept assumes that business has a distinct and separate Entity from its Owners.
+For the Purpose of accounting the Business and Owner is considered as two different entities.
+The accounting records in the books of the business are prepared from the point of view of Business and not from the point of view of Owner.
+
+### Money Measurement Concept
+The Record of Transactions and events should be in monetary Terms and not in physical terms
+Only those transactions or events that can be expressed in monetary terms should be recorded in books of accounts.
+
+### 
