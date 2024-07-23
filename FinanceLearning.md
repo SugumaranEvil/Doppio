@@ -125,4 +125,51 @@ Example : Depreciation on Fixed assets, Rent, Salaries ano wages, Telephone Mobi
 ### Purchases
 Purchases are total amount of Goods that are procured for the purpose of business.
 
+6. Accounting Terms Part 5 - What is Profit, Loss, Stock and Inventories ?
+
+### Profit
+The excess of revenue of the period over its related expenses during that accounting period is Profit.
+
+### Gain
+The Profit that arises from Events Or Transactions Which are incidental to Business is Gain
+
+For Eg :
+Sale from Fixed Asset
+Winning a Court Case
+Appreciation in Value of Asset
+
+
+### Loss
+The Excess of Expenses of a Period over its related Revenue is termed as a Loss. It decreases Owners Equity.
+It also includes Losses incurred from Events or Transactions related to Business
+For Eg : Loss on Sale of Asset
+Loss by Fire
+Loss By Theft
+
+### Discount
+It is deduction in Price of Good Sold.
+
+Types of Discount
+1. Trade Discount
+Offering deduction of agreed % of list Price at the
+Time of Sale of Goods.
+Not Recorded separately in books of Accounts.
+Recorded at the Net Amount
+
+2. Cash Discount
+As the Name suggests it is offered when the
+amount is paid by the Debtors.
+Recorded separately in books of accounts
+
+### Goods
+. It refers to a Product in which the Business is dealing
+. The Goods may be purchased and directly sold to customers or it may Produced and Sold or it may be used while providing services to
+customers.
+. The Items that are used for the Purpose of Business for a Long term are not Goods but are known as Assets.
+
+### Stock/ Inventory
+. It refers to quantity and Value of goods, Spares and Other Items as on the Particular date.
+. Opening Stock (Beginning Inventory) is quantity and Value of Stock at the Beginning of
+the accounting period whereas Closings stock (Closing Inventory) is quantity and Value of
+the stock at the end of the Accounting period.
 
