@@ -185,3 +185,47 @@ The Record of Transactions and events should be in monetary Terms and not in phy
 Only those transactions or events that can be expressed in monetary terms should be recorded in books of accounts.
 
 ### 
+This concept assumes that a business would continue to carry on its Operations indefinitely i.e. for fairly long period of time and would not be liquidated in foreseeable future.
+
+### Accounting Period Concept
+It refers to span of time at the End of which Financial statements are prepared.
+
+## Basic Accounting Part 2
+### 
+
+### Basis of Accounting
+Accrual Basis of Accounting
+. As per Matching Concept
+. Revenue is recorded in books when Earned
+. Expenses is recorded in the books when incurred 
+
+### Cash Basis of Accounting
+. Incompatible to Matching Concept
+· Revenue is recorded in books when Received instead of when it is earned
+. Expenses is recorded in the books when Paid instead of when incurred.
+
+### Full disclosure Concept
+. Financial Statements are the means to communicate with different users.
+. Financial statements include Balancesheet, Profit and Loss account, and Notes to accounts. Notes to accounts are footnotes that should include in detail all the principles followed in preparing the Financial Statements.
+. All material and relevant information should be fully disclosed in the financial statements which shows True and Fair view of the performance of the entity.
+
+### Consistency
+. The same accounting methods or policies should be followed while preparing Financial Statements.
+. This makes Financial statements within two period comparable
+. If there is change in accounting policy then necessary disclosure is required in Notes to accounts and also the impact of change on the Financial Statements should be calculated and disclosed.
+
+### Conservatism Concept
+. There has to be careful approach in recording revenue. The Revenue should be recognised only when it is certain of realisation.
+. But for all Losses even those with remote possibility should be provided in the books of accounts.
+
+### Materiality Concept
+. The accounting should focus on recording material facts.
+. Efforts should not be wasted in recording and presenting a fact, which are immaterial in nature.
+. Any information is material if its knowledge would influence the decision of the users of financial statements.
+. Materiality depends on the Nature of a transaction and amount involved in the Transaction.
+
+### Objectivity Concept
+. Accounting Transaction should be recorded in Objective manner
+. It should be impartial and unbiased to anyone in the Entity
+. Every Transaction should be supported with the Internal and external vouchers along with the proper authentication
+and approvals of the authorised persons.
