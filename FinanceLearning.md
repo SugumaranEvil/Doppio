@@ -224,8 +224,32 @@ Accrual Basis of Accounting
 . Any information is material if its knowledge would influence the decision of the users of financial statements.
 . Materiality depends on the Nature of a transaction and amount involved in the Transaction.
 
+
 ### Objectivity Concept
 . Accounting Transaction should be recorded in Objective manner
 . It should be impartial and unbiased to anyone in the Entity
 . Every Transaction should be supported with the Internal and external vouchers along with the proper authentication
 and approvals of the authorised persons.
+
+12-08-24
+-------------
+### Process of Accounting
+Identifying Financial Transaction (Business Transaction) --> Applying debit Credit Rules ---> Passing a Journal Entry ---> Posting a Journal Entry in Ledger account
+
+-----
+Closing the Ledger account and calculating the balance in the Ledger account --> Preparing Trial balance --> Preparing Profit and Loss account, Balancesheet and Notes to accounts
+
+### There are two approches of understanding debit credit rules :
+1. Accounting Equation based on Dual Concept
+2. Golden Rules of accounting
+Note : The Final debit credit rule is same whichever approach is followed.In other words Journal Entry passed for particular financial transaction will be same
+incase of Accounting equation debit credit rules and Golden Rules of accounting.
+
+Dual aspect Concept/ Accounting Equation
+. Every transaction has two fold effect and so should be recorded in two places in the books of accounts.
+. Atleast 2 Ledger accounts will be involved in one Transaction.
+. Assets = Liabilities + Capital
+
+![image](https://github.com/user-attachments/assets/9d59821a-589c-4f58-97aa-9c41e6fb8833)
+
+
