@@ -256,4 +256,8 @@ Dual aspect Concept/ Accounting Equation
 -------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/32ccf778-c75f-43f0-8d33-18c9373e9b62)
 
+13/11/2024
+------------------------------------------------
+![image](https://github.com/user-attachments/assets/60dcda0a-a654-4d60-a82d-949aad95f053)
+
 
