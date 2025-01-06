@@ -60,3 +60,11 @@ send to other party.
 
 ![image](https://github.com/user-attachments/assets/ef6677ae-0f43-48ec-b1f9-634dafeb4a4d)
 
+# 06/01/25
+
+Purchase book - used to add only credit basis transaction.
+![image](https://github.com/user-attachments/assets/a8a372e9-7ebe-4990-a661-0ecd9821bd66)
+![image](https://github.com/user-attachments/assets/c5bb7e49-7825-43b0-8d99-4ef93a1c9abe)
+
+
+
