@@ -66,5 +66,39 @@ Purchase book - used to add only credit basis transaction.
 ![image](https://github.com/user-attachments/assets/a8a372e9-7ebe-4990-a661-0ecd9821bd66)
 ![image](https://github.com/user-attachments/assets/c5bb7e49-7825-43b0-8d99-4ef93a1c9abe)
 
+# 07/01/25
+## Sales (Journal) Book
+. All the credit sales of goods are recorded in Sales (Journal) book.
+. Cash sales of Goods are recorded in Cash book.
+. Other transactions such as Sale of Fixed assets, goods distributed as free samples, are recorded in
+Journal proper if it is on credit basis and if it is sold for cash then it is recorded in cashbook.
+. There may be numerous transactions of sale of goods on day to day basis especially in large
+businesses. So Instead of passing a separate journal entry for each transaction, it is recorded in Sales
+Book.
+. The Sales Book contains details of every credit Sale of goods - like Date, Name of Customers, Invoice
+No, Amount. The amount recorded in sales journal is net amount in invoice i.e. after deducting Trade
+discounts.
+. Entries in the Sales book may be posted daily, weekly, fortnightly or monthly in Sales a/c on Credit
+side.
+. Entries may be posted to Individual customer's account daily.
+
+<img width="741" alt="image" src="https://github.com/user-attachments/assets/b27c5c5c-1d1b-4019-a02b-102c62099b70" />
+
+## Sales Returns Book
+![image](https://github.com/user-attachments/assets/73a81f1e-57ed-4fe2-a585-3e1ad3dad0d3)
+### Debit Note
+![image](https://github.com/user-attachments/assets/8cb96f96-eb44-4beb-b963-f8ad436f1995)
+### Credit Note
+![image](https://github.com/user-attachments/assets/77de89f8-373b-46d3-95a1-1a1a9d46980b)
+
+![image](https://github.com/user-attachments/assets/8c63df22-8e63-463c-b1b6-b75333cf0703)
+### Sales return book
+![image](https://github.com/user-attachments/assets/1c7850b6-b902-404f-806f-29e8d241d89c)
+
+![image](https://github.com/user-attachments/assets/8cfce4de-d59b-4a5d-81c5-8dba797c04e3)
+
+
+
+
 
 
