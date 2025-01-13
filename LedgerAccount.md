@@ -97,6 +97,21 @@ side.
 
 ![image](https://github.com/user-attachments/assets/8cfce4de-d59b-4a5d-81c5-8dba797c04e3)
 
+# 13/01/2025
+
+## Rectification of Errors
+### Process of Accounting
+![image](https://github.com/user-attachments/assets/fef7babb-fae3-48a2-bd39-dd06634b46a6)
+![image](https://github.com/user-attachments/assets/86c50a50-6de3-4a65-9c69-37332ea4ac6b)
+![image](https://github.com/user-attachments/assets/0e9da006-7a1a-4a47-a557-52394e27331e)
+![image](https://github.com/user-attachments/assets/458cc197-b28b-4f41-9fe3-6141090ffd04)
+![image](https://github.com/user-attachments/assets/8f754847-26f4-4b4e-8fde-186b81594733)
+![image](https://github.com/user-attachments/assets/705ac075-c324-419b-809a-806a15eb0a04)
+
+
+
+
+
 
 
 
