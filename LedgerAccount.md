@@ -118,7 +118,8 @@ side.
 # 21/01/25
 ![image](https://github.com/user-attachments/assets/d9c7dd48-238d-4a1b-968a-3082f6a43139)
 
-
+# 24/01/25
+![image](https://github.com/user-attachments/assets/cda80a2f-2b5c-4ffa-974d-3202028748f3)
 
 
 
