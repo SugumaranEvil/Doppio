@@ -121,5 +121,19 @@ side.
 # 24/01/25
 ![image](https://github.com/user-attachments/assets/cda80a2f-2b5c-4ffa-974d-3202028748f3)
 
+# 27/01/25
+### Bank Reconciliation
+![image](https://github.com/user-attachments/assets/b1a1ae30-53c2-4ab6-8493-2efdd3c16970)
+![image](https://github.com/user-attachments/assets/3bd89a4b-93cc-4c4f-a182-b3d274a9b58b)
+![image](https://github.com/user-attachments/assets/22571ae1-5bfc-4325-91b2-81ecd0942782)
+![image](https://github.com/user-attachments/assets/2e3b5215-bc62-4ad5-990c-240adb231a29)
+![image](https://github.com/user-attachments/assets/67d39de0-f2b2-44ff-bb29-df645ee510aa)
+
+
+
+
+
+
+
 
 
