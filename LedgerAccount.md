@@ -129,7 +129,14 @@ side.
 ![image](https://github.com/user-attachments/assets/2e3b5215-bc62-4ad5-990c-240adb231a29)
 ![image](https://github.com/user-attachments/assets/67d39de0-f2b2-44ff-bb29-df645ee510aa)
 
+# 28/01/25
 
+Points to Remember
+
+Bank reconciliation statement is to bridge a gap between balance as per bank account in books of account and bank statement as on particular day.
+Bank statement is also known as passbook.
+Bank account as per books of accounts is also known as cashbook
+We prepare working notes to know the impact of transaction in Cash book and passbook. In working notes we assume some amount as per balance usually a round figure so that its easy for calculate the impact.
 
 
 
