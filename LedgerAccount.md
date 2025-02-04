@@ -138,8 +138,13 @@ Bank statement is also known as passbook.
 Bank account as per books of accounts is also known as cashbook
 We prepare working notes to know the impact of transaction in Cash book and passbook. In working notes we assume some amount as per balance usually a round figure so that its easy for calculate the impact.
 
-
-
+# 04/02/25
+### Bank Reconciliation Statement (Type 3)
+Overdraft balance (Credit balance) as per cash book and preparing Bank reconciliation statement and finding balance as per Bank statement
+### Points to be remembered :
+1. Overdraft balance is short term loan given by bank.
+2. Overdraft balance will be credit balance as per cash book and Debit balance as per bank statement.
+3. The impact of transaction in BRS incase of overdraft balance will be opposite to impact of transaction in BRS as per normal balance.
 
 
 
