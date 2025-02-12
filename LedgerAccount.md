@@ -146,6 +146,17 @@ Overdraft balance (Credit balance) as per cash book and preparing Bank reconcili
 2. Overdraft balance will be credit balance as per cash book and Debit balance as per bank statement.
 3. The impact of transaction in BRS incase of overdraft balance will be opposite to impact of transaction in BRS as per normal balance.
 
+# 12/02/25
+### Bank Reconciliation Statement (Type 3)
+Overdraft balance (Credit balance) as per cash book and preparing Bank reconciliation statement and finding balance as per Bank statement.
+![image](https://github.com/user-attachments/assets/293737f4-1856-4e22-9d96-cc0d95e81a1f)
+
+### Points to be remembered :
+1. Overdraft balance is short term loan given by bank.
+2. Overdraft balance will be credit balance as per cash book and Debit balance as per bank statement.
+3. The impact of transaction in BRS incase of overdraft balance will be opposite to impact of transaction in BRS as per normal balance.
+
+
 
 
 
