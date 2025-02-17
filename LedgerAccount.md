@@ -156,7 +156,6 @@ Overdraft balance (Credit balance) as per cash book and preparing Bank reconcili
 2. Overdraft balance will be credit balance as per cash book and Debit balance as per bank statement.
 3. The impact of transaction in BRS incase of overdraft balance will be opposite to impact of transaction in BRS as per normal balance.
 
-
-
-
+# 17/02/25
+![image](https://github.com/user-attachments/assets/89469268-64ae-4a80-a348-216217ae2de6)
 
